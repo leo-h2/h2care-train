@@ -1,0 +1,7 @@
+classes = 2
+train = data/train.txt
+valid = data/valid.txt
+names = data/h2care.names
+backup = /mydrive/yolov4/backup
+backup = /mydrive/station/seoul/congress/model/backup
+
