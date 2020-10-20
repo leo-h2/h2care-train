@@ -1,6 +1,6 @@
 classes = 2
-train = data/train.txt
-valid = data/valid.txt
+train = /mydrive/station/seoul/congress/img/annotation/yolo_200715_200722/train.txt
+valid = /mydrive/station/seoul/congress/img/annotation/yolo_200715_200722/valid.txt
 names = data/h2care.names
 backup = /mydrive/yolov4/backup
 backup = /mydrive/station/seoul/congress/model/backup
