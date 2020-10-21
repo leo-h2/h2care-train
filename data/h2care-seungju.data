@@ -1,0 +1,6 @@
+classes = 2
+train = /mydrive/station/gyeongbug/seungju/img/annotation/train.txt
+valid = /mydrive/station/gyeongbug/seungju/img/annotation/valid.txt
+names = data/h2care.names
+backup = /mydrive/station/gyeongbug/seungju/model/backup
+
