@@ -16,4 +16,4 @@
 * count    
 현재 subdivision 이미지들에서 positive sample 들을 포함한 이미지의 수    
 
-Ref : [https://eehoeskrap.tistory.com/370]
+Ref : https://eehoeskrap.tistory.com/370
