@@ -23,7 +23,7 @@ DEBUG=0
 #      -gencode arch=compute_52,code=[sm_52,compute_52] \
 #	    -gencode arch=compute_61,code=[sm_61,compute_61]
 
-ARCH = -Wno-deprecated-gpu-targets 
+ARCH = -Wno-deprecated-gpu-targets \
       -gencode arch=compute_35,code=sm_35 \
       -gencode arch=compute_50,code=[sm_50,compute_50] \
       -gencode arch=compute_52,code=[sm_52,compute_52] \
